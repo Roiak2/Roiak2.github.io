@@ -1,4 +1,5 @@
-# Hello~ Welcome to the personal website of Roí A.K.
+# Hello! Welcome to the personal website of Roí A.K.
+
 
 ## About me
 
