@@ -1,6 +1,6 @@
-## Hello world. Welcome to the personal website of Roí A.K.
+# Hello~ Welcome to the personal website of Roí A.K.
 
-### About me
+## About me
 
 I'm a forest ecologist from Jerusalem interested in how the interactions between different tree architectures impact ecosystem function.
 I'm currently a graduate student at Columbia University in Dr. María Uriarte's lab studying how canopy structure changes wind and hurricane damage in forests across Puerto Rico.
