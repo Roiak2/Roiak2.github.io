@@ -23,7 +23,7 @@ I'm a forest ecologist from Jerusalem interested in how the interactions between
 
 <img src="Images/IMG_0113.JPG" height= "500">
 
-*Pistacia palaestina and Quercus calliprinos dominated forest in Jerusalem mountains*
+*Pistacia palaestina and Quercus calliprinos forest in Jerusalem mountains, ominously overshadowed by invasive Pinus halepensis plantations*
 
 ## My Research
 I'm currently a graduate student at Columbia University in Dr. María Uriarte's lab studying how canopy structure changes wind and hurricane damage in forests across Puerto Rico.
