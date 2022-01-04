@@ -35,30 +35,5 @@ I'm currently a graduate student at Columbia University in Dr. María Uriarte's 
 <img src="Images/LiDAR%20Point%20Cloud%20Close.png">
 
 <p align="center">Light ranging and detection (LiDAR) x-y-z point cloud quantifying canopy structure</p>
-
-### Code test
-
-**Testing out a code block**
-```python
-#function test of tree under different conditions
-def trees(action):
-  if action == "hurricane": #during a hurricane
-    print("better be bendable") #the tree must have high elastic modulus
-  elif action == "drought": #during a drought
-    print("better be less dense") #water conductivity needs to be efficient
-  elif action == "baseline": #when not undergoing disturbance 
-    print("better be shade-tolerant") #neighborhood dynamics dictate composition
-  else:
-    print("sorry, this tree is no longer available") #otherwise print generic message
-  
-```
-
-*Testing out function*
-```python
-#test out this code
-trees("hurricane")
-```
-
-```python
 better be bendable
 ```
